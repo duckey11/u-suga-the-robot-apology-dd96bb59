@@ -11,7 +11,7 @@ ENTRY = (
     "I'm sorry I watered your grandmother's orchid instead of the fern, "
     "and it wilted before you noticed.\n"
     "I've learned to read the label on every pot before I pour, so from "
-    "now on I'll check twice and water only the plant you named."
+    "now on I'll read the label twice and water only the plant you named."
 )
 
 
